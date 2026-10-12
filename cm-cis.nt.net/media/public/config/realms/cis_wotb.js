@@ -31,7 +31,7 @@ WG.CommonMenu.configs.realm = {
   ],
   leaderboard_wotg_url: "http://wotgenerals.eu/leaderboard/",
   name: "eu",
-  third_party_js: "(function(){...})();",
+  third_party_js: "(function(){var options = WG.CommonMenu.getOptions();(function(w,d,p){var f=d.getElementsByTagName('script')[0],j=d.createElement('script'),i;j.async=true;j.src='//'+p['script'];j.setAttribute('id', 'wgtr-loader');for(i in p){if (p.hasOwnProperty(i)) {j.setAttribute('data-'+i,p[i]);}}f.parentNode.insertBefore(j,f);})(window,document,{'script':'tenor.wargaming.net/assets/clicks/static/tracker.js','realm':options['realm'],'project':options['project'],'service':options['service']});})();",
   main_icon: "/media/public/img/4Fy2RVj9RmCO2LlF6KIbEw.svg",
   user_links: [
     {
