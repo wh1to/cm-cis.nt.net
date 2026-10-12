@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 22 52.9209">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st2 {
+        fill: #2f9a00;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+
+      .st4 {
+        fill: #e1b012;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.9867" y1="-2368.8999" x2="10.9867" y2="-2386.7" gradientTransform="translate(0 -2368.8999) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f00000"/>
+      <stop offset="1" stop-color="#dc0000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="11.05" y1="-2381.2999" x2="11.05" y2="-2382.9999" gradientTransform="translate(0 -2368.8999) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c00000"/>
+      <stop offset="1" stop-color="#bf0000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="11.05" y1="-2375.5" x2="11.05" y2="-2380.5" gradientTransform="translate(0 -2368.8999) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f00000"/>
+      <stop offset="1" stop-color="#c00000"/>
+    </linearGradient>
+  </defs>
+  <path class="st3" d="M12.9,1c-.8-1.4-2.9-1.4-3.7,0L.8,14.6c-.9,1.4.2,3.2,1.9,3.2h16.7c1.7,0,2.6-1.8,1.8-3.2M3.1,15.9c-.3,0-.4-.3-.3-.5L10.5,2.8c.2-.3.7-.3.9,0l7.7,12.6c.1.2,0,.5-.3.5"/>
+  <rect class="st1" x="10.2" y="12.4" width="1.7" height="1.7"/>
+  <rect class="st0" x="10.2" y="6.7" width="1.7" height="5"/>
+  <path class="st2" d="M1.9,23.3c1.2,1,2.3,1.8,3.4,2.8,2.7-2.2,5.4-4.4,8.2-6.6l1.3,1.3c-3,3.4-6,6.8-9,10.3-1.8-2-3.6-4.2-5.3-6.3.5-.5,1-1,1.4-1.4v-.1Z"/>
+  <g id="Layer_2-3">
+    <rect class="st4" x="10.2484" y="37.8202" width="1.6242" height="5.4632"/>
+    <rect class="st4" x="10.2484" y="45.0553" width="1.6242" height="1.6242"/>
+  </g>
+  <g id="Layer_4-2">
+    <path class="st4" d="M10.9867,32.8c-5.1679,0-9.4499,4.282-9.4499,9.4499s4.282,9.4499,9.4499,9.4499,9.4499-4.282,9.4499-9.4499-4.282-9.4499-9.4499-9.4499ZM11.1343,49.6326c-3.9867,0-7.3827-3.2484-7.3827-7.3827s3.396-7.3827,7.3827-7.3827,7.3827,3.2484,7.3827,7.3827-3.2484,7.3827-7.3827,7.3827Z"/>
+  </g>
+</svg>
