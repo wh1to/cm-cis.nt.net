@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="15.75" height="18.969" viewBox="0 0 15.75 18.969">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #595959;
+        filter: url(#filter-chain-1);
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <filter id="filter-chain-1" filterUnits="userSpaceOnUse">
+      <feImage x="0" y="0" width="15.75" height="18.96900000000005" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTUuNzUiIGhlaWdodD0iMTguOTY5MDAwMDAwMDAwMDUiPjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI3Ljg3NSIgeTE9IjE4Ljk3IiB4Mj0iNy44NzUiPgogIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzk5OSIvPgogIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIi8+PC9zdmc+"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="SourceGraphic" result="gradientFill"/>
+      <feOffset dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="innerShadowBlur"/>
+      <feFlood flood-opacity="0.35"/>
+      <feComposite operator="out" in2="innerShadowBlur"/>
+      <feComposite operator="in" in2="SourceAlpha"/>
+      <feBlend mode="multiply" in2="gradientFill" result="innerShadow"/>
+    </filter>
+  </defs>
+  <path d="M15.062,10.112 L1.754,18.323 C1.754,18.323 0.759,19.066 0.288,18.971 C-0.111,18.889 0.003,17.966 0.003,17.966 L0.003,0.830 C0.003,0.830 -0.024,0.101 0.312,0.016 C0.676,-0.077 1.404,0.474 1.404,0.474 L15.062,8.685 C15.062,8.685 15.762,9.057 15.762,9.421 C15.762,9.770 15.062,10.112 15.062,10.112 ZM10.170,11.909 L8.572,10.458 L3.855,15.813 L10.170,11.909 ZM1.404,16.851 L7.707,9.410 L1.404,2.258 L1.404,16.851 ZM3.910,3.341 L8.583,8.685 L10.148,7.067 L3.910,3.341 ZM11.056,7.591 L9.448,9.398 L11.188,11.195 L14.000,9.410 L11.056,7.591 Z" class="cls-1"/>
+</svg>
